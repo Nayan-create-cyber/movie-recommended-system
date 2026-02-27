@@ -38,5 +38,3 @@ The app recommends movies similar to the one selected by the user and displays t
 
 
 
-git clone https://github.com/Nayan-create-cyber/movie-recommended-system.git
-cd movie-recommended-system
